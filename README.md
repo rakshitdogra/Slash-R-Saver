@@ -1,6 +1,6 @@
 <h1 align="center">RedSave</h1>
 <p align="center">
-  <a href="https://github.com/rakshitdogra/RedSave"><img src="icon.png" alt="Logo"></img></a>
+  <a href="https://github.com/rakshitdogra/RedSave"><img src="logo.png" alt="Logo"></img></a>
   </br>
   </br>
   <sub>Logo by <a href="https://www.instagram.com/rakshit.designs/">@rakshit.designs</a></sub>
