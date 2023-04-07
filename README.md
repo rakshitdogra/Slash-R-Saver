@@ -1,5 +1,13 @@
-<h1 align="center">RedSave</h1>
-
+<h1 align="center">SLASH R SAVER</h1>
+<p align="center">
+  <a href="https://github.com/rakshitdogra/SLASH R SAVER"><img src="icon.png" alt="Logo"></img></a>
+  </br>
+  </br>
+  <sub>Logo by <a href="https://www.instagram.com/rakshit.designs/">@rakshit.designs</a></sub>
+  </br>
+   </br>
+  <sub>WITH ❤️ BY Rakshit Dogra.</sub>
+</p>
 
 # Disclaimer
 1. This code/program is Not affiliated with Reddit Inc.
