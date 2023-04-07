@@ -1,6 +1,6 @@
 <h1 align="center">SLASH R SAVER</h1>
 <p align="center">
-  <a href="https://github.com/rakshitdogra/SLASH R SAVER"><img src="icon.png" alt="Logo"></img></a>
+  <a href="https://github.com/rakshitdogra/Slash-R-Saver"><img src="srs.png" alt="Logo"></img></a>
   </br>
   </br>
   <sub>Logo by <a href="https://www.instagram.com/rakshit.designs/">@rakshit.designs</a></sub>
